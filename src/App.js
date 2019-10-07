@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hari is Learning to React and nice!
+          Hari is Learning to React and what!
         </a>
       </header>
     </div>
